@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Requests
+    about: Submit and Vote on Feature Requests
+    url: https://nisenan.canny.io/
+  - name: Discussions
+    about: General Discussions about the nisenan project
+    url: https://github.com/orgs/nisenan/discussions
